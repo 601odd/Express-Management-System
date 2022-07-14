@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/odd/Desktop/课程设计/assign
+CMake Error at CMakeLists.txt:18 (add_executable):
+  The target name "课程设计" is reserved or not valid for certain CMake
+  features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/odd/Desktop/课程设计/assign/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/odd/Desktop/课程设计/assign/cmake-build-debug/CMakeFiles/CMakeError.log".
